@@ -1,11 +1,10 @@
 # Wonbin Choi
 
 **SSAFY 15기** 교육생
-**Flutter**와 **Next.js**를 활용한 서비스 개발에 집중하고 있습니다.
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Mobile & Frontend**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
