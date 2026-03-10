@@ -35,6 +35,6 @@ Flutter와 Next.js, Django를 활용해 가치 있는 서비스를 만듭니다.
 ---
 
 ### More About Me
-- **Weightlifting**: 3대 중량 증량과 성장의 기록을 즐깁니다. (꾸준함의 지표)
+- **Weightlifting**: 3대 중량 증량과 성장의 기록을 즐깁니다.
 - **Anime**: Steins;Gate, Evangelion 같은 심오한 세계관을 좋아합니다.
 - **Contact**: baskduf@gmail.com
