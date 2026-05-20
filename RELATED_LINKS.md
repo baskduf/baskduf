@@ -124,7 +124,6 @@
       <br/>
       <img src="https://img.shields.io/badge/Antigravity-4F46E5?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=github,vscode,figma" alt="Tools" />
     </td>
   </tr>
 </table>
