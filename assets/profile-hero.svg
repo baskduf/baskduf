@@ -1,0 +1,94 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Wonbin Choi profile hero</title>
+  <desc id="desc">A GitHub profile banner with a custom baskduf logo and an animated developer character.</desc>
+  <defs>
+    <linearGradient id="bg" x1="87" y1="26" x2="1114" y2="371" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7FAFF"/>
+      <stop offset="0.38" stop-color="#EEF7F6"/>
+      <stop offset="0.68" stop-color="#FDF5EA"/>
+      <stop offset="1" stop-color="#F8EFF1"/>
+    </linearGradient>
+    <linearGradient id="logoGradient" x1="86" y1="105" x2="260" y2="258" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00B8A9"/>
+      <stop offset="0.55" stop-color="#5B8DEF"/>
+      <stop offset="1" stop-color="#FF6B6B"/>
+    </linearGradient>
+    <filter id="cardShadow" x="31" y="43" width="1138" height="336" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="20" stdDeviation="18" flood-color="#151A2F" flood-opacity="0.15"/>
+    </filter>
+    <filter id="characterShadow" x="728" y="48" width="337" height="288" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="16" stdDeviation="12" flood-color="#151A2F" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" rx="42" fill="url(#bg)"/>
+  <path d="M0 333C180 276 260 358 415 310C595 254 680 139 864 177C1008 206 1050 310 1200 238V420H0V333Z" fill="#FFFFFF" opacity="0.66"/>
+  <path d="M83 321C227 273 333 354 474 309C620 263 693 183 838 208C975 232 1045 307 1147 267" stroke="#DDE6F6" stroke-width="3" stroke-linecap="round"/>
+
+  <g filter="url(#cardShadow)">
+    <rect x="64" y="74" width="707" height="258" rx="34" fill="#FFFFFF" opacity="0.82"/>
+    <rect x="64.5" y="74.5" width="706" height="257" rx="33.5" stroke="#DDE6F6"/>
+  </g>
+
+  <g>
+    <path d="M109 231L147 123H194L232 231H194L185 202H155L146 231H109Z" fill="url(#logoGradient)"/>
+    <path d="M162 175H178L171 148L162 175Z" fill="#FFFFFF"/>
+    <path d="M235 123H271L288 184L311 123H348L309 231H276L259 174L238 231H204L235 123Z" fill="#2D334A"/>
+    <path d="M99 253H355" stroke="#00B8A9" stroke-width="10" stroke-linecap="round"/>
+  </g>
+
+  <text x="405" y="152" fill="#2D334A" font-family="Segoe UI, Pretendard, Arial, sans-serif" font-size="50" font-weight="850" letter-spacing="0">baskduf</text>
+  <text x="406" y="203" fill="#4A536D" font-family="Segoe UI, Pretendard, Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="0">Wonbin Choi</text>
+  <text x="406" y="244" fill="#68708A" font-family="Segoe UI, Pretendard, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="0">UX-minded developer · Flutter · Next.js · Django</text>
+  <rect x="406" y="269" width="204" height="12" rx="6" fill="#00B8A9" opacity="0.86"/>
+  <rect x="624" y="269" width="66" height="12" rx="6" fill="#FFB703" opacity="0.9"/>
+
+  <g opacity="0.85">
+    <text x="882" y="74" fill="#00B8A9" font-family="Consolas, monospace" font-size="34" font-weight="700">&lt;/&gt;
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="3s" repeatCount="indefinite"/>
+    </text>
+    <text x="1017" y="136" fill="#FF6B6B" font-family="Consolas, monospace" font-size="30" font-weight="700">{ }
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 9;0 0" dur="2.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="983" y="319" fill="#5B8DEF" font-family="Consolas, monospace" font-size="25" font-weight="700">push
+      <animateTransform attributeName="transform" type="translate" values="0 0;8 0;0 0" dur="3.2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <g filter="url(#characterShadow)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2.2s" repeatCount="indefinite"/>
+      <path d="M832 209C841 181 864 166 890 166C916 166 939 181 948 209L962 257H818L832 209Z" fill="#5B8DEF"/>
+      <path d="M844 215C851 193 869 181 890 181C911 181 929 193 936 215L946 257H833L844 215Z" fill="#00B8A9" opacity="0.28"/>
+
+      <circle cx="890" cy="132" r="48" fill="#F6C7A7"/>
+      <path d="M842 131C846 92 870 75 898 79C927 82 946 102 938 140C927 129 917 117 911 102C900 119 873 129 842 131Z" fill="#2D334A"/>
+      <path d="M847 141C842 135 835 137 834 145C833 154 841 161 849 157" fill="#F6C7A7"/>
+      <path d="M933 141C938 135 945 137 946 145C947 154 939 161 931 157" fill="#F6C7A7"/>
+
+      <ellipse cx="871" cy="139" rx="4" ry="6" fill="#20263A">
+        <animate attributeName="ry" values="6;1;6" dur="3s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="909" cy="139" rx="4" ry="6" fill="#20263A">
+        <animate attributeName="ry" values="6;1;6" dur="3s" repeatCount="indefinite"/>
+      </ellipse>
+      <path d="M876 158C884 164 897 164 904 158" stroke="#B8695D" stroke-width="4" stroke-linecap="round"/>
+
+      <path d="M832 240C812 249 803 263 800 281" stroke="#5B8DEF" stroke-width="17" stroke-linecap="round"/>
+      <path d="M948 240C968 249 979 263 982 281" stroke="#00B8A9" stroke-width="17" stroke-linecap="round"/>
+      <circle cx="809" cy="282" r="10" fill="#F6C7A7">
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 5;0 0" dur="0.48s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="972" cy="282" r="10" fill="#F6C7A7">
+        <animateTransform attributeName="transform" type="translate" values="0 5;0 0;0 5" dur="0.48s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <path d="M805 233H976L996 306H785L805 233Z" fill="#151A2F"/>
+    <path d="M785 306H996V320H785V306Z" fill="#2D334A"/>
+    <circle cx="890" cy="270" r="15" fill="#FFB703" opacity="0.95"/>
+    <path d="M881 270L888 277L902 260" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="823" y="258" fill="#7BDFF2" font-family="Consolas, monospace" font-size="14" font-weight="700">build</text>
+    <text x="925" y="285" fill="#FF6B6B" font-family="Consolas, monospace" font-size="14" font-weight="700">ship</text>
+  </g>
+</svg>

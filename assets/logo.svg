@@ -1,0 +1,31 @@
+<svg width="420" height="140" viewBox="0 0 420 140" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Baskduf custom logo</title>
+  <desc id="desc">A custom WB monogram logo with a moving cursor accent.</desc>
+  <defs>
+    <linearGradient id="markGradient" x1="48" y1="20" x2="170" y2="116" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00B8A9"/>
+      <stop offset="0.52" stop-color="#5B8DEF"/>
+      <stop offset="1" stop-color="#FF6B6B"/>
+    </linearGradient>
+    <filter id="softShadow" x="0" y="0" width="420" height="140" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#151A2F" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect x="14" y="12" width="392" height="116" rx="28" fill="#F7FAFF"/>
+  <rect x="14.5" y="12.5" width="391" height="115" rx="27.5" stroke="#DDE6F6"/>
+
+  <g filter="url(#softShadow)">
+    <path d="M64 94L85 34H111L132 94H111L106 78H89L84 94H64Z" fill="url(#markGradient)"/>
+    <path d="M93 63H102L98 48L93 63Z" fill="#F7FAFF"/>
+    <path d="M134 34H154L164 68L177 34H198L176 94H158L148 62L136 94H117L134 34Z" fill="#2D334A"/>
+    <path d="M58 106H201" stroke="#00B8A9" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <text x="226" y="61" fill="#2D334A" font-family="Segoe UI, Pretendard, Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="0">baskduf</text>
+  <text x="228" y="91" fill="#68708A" font-family="Segoe UI, Pretendard, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="0">build · learn · ship</text>
+
+  <rect x="344" y="42" width="4" height="29" rx="2" fill="#FFB703">
+    <animate attributeName="opacity" values="1;0.15;1" dur="1.05s" repeatCount="indefinite"/>
+  </rect>
+</svg>

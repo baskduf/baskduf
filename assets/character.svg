@@ -1,0 +1,78 @@
+<svg width="360" height="300" viewBox="0 0 360 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated developer character</title>
+  <desc id="desc">A small animated developer character typing at a laptop with floating code symbols.</desc>
+  <defs>
+    <linearGradient id="hoodie" x1="122" y1="135" x2="237" y2="248" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5B8DEF"/>
+      <stop offset="1" stop-color="#00B8A9"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="98" y1="192" x2="260" y2="256" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22283D"/>
+      <stop offset="1" stop-color="#111625"/>
+    </linearGradient>
+    <filter id="shadow" x="52" y="43" width="262" height="231" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#101527" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+
+  <ellipse cx="182" cy="263" rx="110" ry="18" fill="#DDE6F6"/>
+
+  <g opacity="0.9">
+    <text x="58" y="82" fill="#00B8A9" font-family="Consolas, monospace" font-size="24" font-weight="700">&lt;/&gt;
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="2.8s" repeatCount="indefinite"/>
+    </text>
+    <text x="265" y="104" fill="#FF6B6B" font-family="Consolas, monospace" font-size="22" font-weight="700">{ }
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 7;0 0" dur="2.4s" repeatCount="indefinite"/>
+    </text>
+    <text x="252" y="65" fill="#FFB703" font-family="Consolas, monospace" font-size="20" font-weight="700">git
+      <animateTransform attributeName="transform" type="translate" values="0 0;7 0;0 0" dur="3s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.2s" repeatCount="indefinite"/>
+
+      <path d="M125 167C134 140 157 126 181 126C207 126 229 141 238 167L251 211H112L125 167Z" fill="url(#hoodie)"/>
+      <path d="M137 172C144 150 161 140 181 140C202 140 218 151 225 172L234 211H128L137 172Z" fill="#F7FAFF" opacity="0.18"/>
+
+      <circle cx="180" cy="95" r="48" fill="#F6C7A7"/>
+      <path d="M132 93C136 56 158 39 186 42C215 45 234 65 228 101C217 92 206 79 201 66C189 82 163 91 132 93Z" fill="#2D334A"/>
+      <path d="M137 103C132 97 125 99 124 107C123 116 131 123 139 119" fill="#F6C7A7"/>
+      <path d="M223 103C228 97 235 99 236 107C237 116 229 123 221 119" fill="#F6C7A7"/>
+
+      <g>
+        <ellipse cx="161" cy="100" rx="4" ry="6" fill="#20263A">
+          <animate attributeName="ry" values="6;1;6" dur="3s" repeatCount="indefinite"/>
+        </ellipse>
+        <ellipse cx="199" cy="100" rx="4" ry="6" fill="#20263A">
+          <animate attributeName="ry" values="6;1;6" dur="3s" repeatCount="indefinite"/>
+        </ellipse>
+      </g>
+      <path d="M166 119C175 126 187 126 196 119" stroke="#B8695D" stroke-width="4" stroke-linecap="round"/>
+
+      <path d="M122 198C101 206 91 221 88 239" stroke="#5B8DEF" stroke-width="17" stroke-linecap="round"/>
+      <path d="M239 198C259 206 270 221 273 239" stroke="#00B8A9" stroke-width="17" stroke-linecap="round"/>
+
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 5;0 0" dur="0.48s" repeatCount="indefinite"/>
+        <circle cx="97" cy="240" r="10" fill="#F6C7A7"/>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 5;0 0;0 5" dur="0.48s" repeatCount="indefinite"/>
+        <circle cx="263" cy="240" r="10" fill="#F6C7A7"/>
+      </g>
+    </g>
+
+    <path d="M94 190H261L280 255H75L94 190Z" fill="url(#screen)"/>
+    <path d="M75 255H280V268H75V255Z" fill="#2D334A"/>
+    <circle cx="178" cy="223" r="14" fill="#00B8A9" opacity="0.9"/>
+    <path d="M169 224L176 231L190 213" stroke="#F7FAFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <g font-family="Consolas, monospace" font-size="13" font-weight="700">
+      <text x="111" y="212" fill="#FFB703">ship()</text>
+      <text x="202" y="236" fill="#FF6B6B">run</text>
+      <text x="116" y="240" fill="#7BDFF2">UX</text>
+    </g>
+  </g>
+</svg>
