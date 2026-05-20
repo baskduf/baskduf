@@ -97,7 +97,7 @@
     <td align="center" width="360">
       <strong>Anime</strong>
       <br/>
-      <sub>Steins;Gate, Evangelion 같은 심오한 세계관을 좋아합니다.</sub>
+      <sub>Steins;Gate, Evangelion</sub>
     </td>
   </tr>
 </table>
