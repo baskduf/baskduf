@@ -113,7 +113,6 @@
         <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=baskduf" alt="Solved.ac profile for baskduf" />
       </a>
       <br/>
-      <a href="https://solved.ac/baskduf/">solved.ac/baskduf</a>
     </td>
     <td align="center" width="360">
       <img src="https://img.shields.io/badge/AI_TOOLKIT-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI toolkit" />
