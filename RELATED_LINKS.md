@@ -1,7 +1,3 @@
-# Related Links
-
-기존 README에 있던 링크와 소개를 모아 둔 문서입니다.
-
 ## Profile
 
 - Name: Wonbin Choi
@@ -11,8 +7,11 @@
 
 ## Tech Stack
 
-- Mobile and Frontend: Flutter, Next.js, React
-- Backend and Language: Java, Spring, Python, Django
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Antigravity-4F46E5?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+</p>
 
 ## Featured Projects
 
