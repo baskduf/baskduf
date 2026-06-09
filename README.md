@@ -8,6 +8,6 @@
 </p>
 
 <p align="left">
-  Contribute
-  openclaw : https://github.com/openclaw/openclaw/pull/89909#issuecomment-4661878768
+  Contribute<br>
+  openclaw🦞 : https://github.com/openclaw/openclaw/pull/89909
 </p>
