@@ -9,7 +9,8 @@
 
 <p align="left">
   Contribute<br>
-  openclaw🦞 : https://github.com/openclaw/openclaw/pull/89909<br><br>
+  openclaw🦞 : https://github.com/openclaw/openclaw/pull/89909<br>
+  Awesome-AI-Agents✨ : https://github.com/Jenqyang/Awesome-AI-Agents/pull/283<br><br>
   My Awesome Project<br>
   harness-starter-kit🐴 : https://github.com/Jenqyang/Awesome-AI-Agents/pull/283
 </p>
