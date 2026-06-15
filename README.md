@@ -11,6 +11,7 @@
   Contribute<br>
   openclaw 2026.6.6 🦞 : https://github.com/openclaw/openclaw/releases/tag/v2026.6.6<br>
   openclaw🦞 : https://github.com/openclaw/openclaw/pull/89909<br>
+  openclaw🦞 : https://github.com/openclaw/openclaw/pull/90229<br>
   Awesome-AI-Agents✨ : https://github.com/Jenqyang/Awesome-AI-Agents/pull/283<br><br>
   My Awesome Project<br>
   harness-starter-kit🐴 : https://github.com/Jenqyang/Awesome-AI-Agents/pull/283
