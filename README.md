@@ -1,7 +1,5 @@
 
 <p align="center">
-<img width="500" height="478" alt="madeon hi! music video visual" src="https://github.com/user-attachments/assets/ec31811b-7d94-4f2e-bf5a-1debeadd74e5" />
-
 
 </p>
 
